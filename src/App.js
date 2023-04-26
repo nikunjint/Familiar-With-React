@@ -4,8 +4,8 @@ import Navigation from './navigation';
 import Box from './bootstrap';
 import ToDo from './ToDo';
 import Counter from './useState';
-import Addingarray from './Addingarray';
-import DeletingArray from './DeletingArray';
+import Addingarray from './Hooks/Addingarray';
+import DeletingArray from './Hooks/DeletingArray';
 import Second from './props/second';
 import Third from './props/third';
 
