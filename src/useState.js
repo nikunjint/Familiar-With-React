@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Button} from 'bootstrap';
 
-export default function Counter() {
+export default function Counters() {
   const [number, setNumber] = useState(0);
 
   return (
